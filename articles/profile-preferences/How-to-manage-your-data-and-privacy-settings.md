@@ -1,3 +1,12 @@
+---
+id: how-to-navigate
+title: How to manage your data and privacy settings
+sidebar_position: 3
+tags:
+  - Profile Preferences
+---
+
+
 How to manage your data and privacy settings
 
 
