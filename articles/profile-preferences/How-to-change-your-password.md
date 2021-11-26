@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to change your password
+sidebar_position: 8
+tags:
+  - Profile Preferences
+---
+
 Click on your avatar picture on the top-left corner of the left-side menu panel.
 In the drop-down menu that appears, click on Manage my account.
 Select Security.
