@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to link your profile to an organisation
+sidebar_position: 3
+tags:
+  - Profile Preferences
+---
+
 How to link your profile to an organisation
 
 Click on your profile picture on the top-left part of the page and then click on Manage my account. 
