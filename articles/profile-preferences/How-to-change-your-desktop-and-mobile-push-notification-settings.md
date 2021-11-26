@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to change your desktop and mobile push notification settings
+sidebar_position: 9
+tags:
+  - Profile Preferences
+---
+
 How to change your desktop and mobile push notification settings
 
 
