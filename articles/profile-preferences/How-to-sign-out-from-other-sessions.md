@@ -1,3 +1,12 @@
+---
+id: how-to-navigate
+title: How to sign out from other sessions
+sidebar_position: 2
+tags:
+  - Profile Preferences
+---
+
+
 How to sign out from other sessions
 
 Click on your profile picture on the top-left part of the page and then click on Manage my account. 
