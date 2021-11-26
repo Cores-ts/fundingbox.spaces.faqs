@@ -2,7 +2,7 @@
 id: how-to-sign-in
 title: How to sign in the FundingBox Platform
 tags:
-  - Demo
+  - Getting started
 ---
 
 * Access the FundingBox website homepage.

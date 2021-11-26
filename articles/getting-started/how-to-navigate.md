@@ -2,7 +2,7 @@
 id: how-to-navigate
 title: How to navigate the FundingBox Platform
 tags:
-  - Demo
+  - Getting started
 ---
 
 2 screenshots
