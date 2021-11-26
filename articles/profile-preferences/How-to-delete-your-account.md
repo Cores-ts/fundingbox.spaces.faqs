@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to delete your account
+sidebar_position: 6
+tags:
+  - Profile Preferences
+---
+
 Open your Account Settings. You can access the page by clicking your avatar picture on the top-left corner of the left-side menu panel and then clicking Manage my account in the dropdown menu.
 On your account page, scroll down to the section titled Danger Zone and Delete your account. 
 
