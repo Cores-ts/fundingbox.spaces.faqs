@@ -1,6 +1,7 @@
 ---
 id: what-is-the-fundingbox-platform
 title: What is the FundingBox Platform?
+sidebar_position: 1
 tags:
   - Getting started
 ---

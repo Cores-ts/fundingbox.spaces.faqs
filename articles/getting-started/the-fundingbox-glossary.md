@@ -1,6 +1,7 @@
 ---
 id: the-fundingbox-glossary
 title: The FundingBox Glossary
+sidebar_position: 4
 tags:
   - Getting started
 ---

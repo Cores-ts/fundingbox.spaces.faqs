@@ -1,6 +1,7 @@
 ---
 id: how-to-navigate
 title: How to navigate the FundingBox Platform
+sidebar_position: 3
 tags:
   - Getting started
 ---

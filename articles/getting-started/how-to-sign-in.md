@@ -1,6 +1,7 @@
 ---
 id: how-to-sign-in
 title: How to sign in the FundingBox Platform
+sidebar_position: 2
 tags:
   - Getting started
 ---
