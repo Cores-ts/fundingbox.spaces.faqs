@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to change your profile & company information
+sidebar_position: 7
+tags:
+  - Profile Preferences
+---
+
 Click on your avatar picture on the top-left corner of the menu panel.
 In the drop-down menu that appears, click on Manage my account.
 In the Profile section, you will be able to edit your profile information which includes:
