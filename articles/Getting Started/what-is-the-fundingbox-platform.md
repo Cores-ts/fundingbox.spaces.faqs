@@ -1,3 +1,7 @@
+---
+title: What is the FundingBox Platform?
+---
+
 FundingBox’s main belief is that relationships are the foundations of any business. 
 Organisations in the field of funding (accelerators, corporates, venture capitalists, angel investors, event organisers, EU projects coordinators, regional and national public institutions, Digital Innovation Hubs, etc.) need to interact with each other but they do not necessarily have the right tools to make the most out of these interactions and find the perfect match.
 FundingBox is a dynamic and interactive web platform for deep tech innovators in the quest for funding, investors and corporates hunting for the next unicorn and any stakeholder part of the funding process.

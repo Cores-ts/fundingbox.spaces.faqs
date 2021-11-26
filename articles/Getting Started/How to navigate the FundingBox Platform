@@ -1,8 +1,0 @@
-2 screenshots
-![Example banner](./assets/How to navigate the FundingBox Platform1.png)
-![Plushie] (./assets/How to navigate the FundingBox Platform2.png)
-
-<img
-  src={require('./assets/How to navigate the FundingBox Platform2.png').default}
-  alt="Example banner"
-/>
