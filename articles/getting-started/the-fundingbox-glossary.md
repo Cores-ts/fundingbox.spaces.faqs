@@ -1,5 +1,8 @@
 ---
+id: the-fundingbox-glossary
 title: The FundingBox Glossary
+tags:
+  - Demo
 ---
 
 * **FundingBox Platform:** The FundingBox Platform is an ecosystem of specialised deep tech communities gathering over 35,000 subscribers.

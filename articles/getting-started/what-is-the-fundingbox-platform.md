@@ -1,5 +1,8 @@
 ---
+id: what-is-the-fundingbox-platform
 title: What is the FundingBox Platform?
+tags:
+  - Demo
 ---
 
 FundingBox’s main belief is that relationships are the foundations of any business. 

@@ -1,5 +1,8 @@
 ---
+id: how-to-sign-in
 title: How to sign in the FundingBox Platform
+tags:
+  - Demo
 ---
 
 * Access the FundingBox website homepage.
