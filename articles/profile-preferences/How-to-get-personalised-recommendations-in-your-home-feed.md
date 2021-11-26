@@ -1,3 +1,11 @@
+---
+id: how-to-navigate
+title: How to get personalised recommendations in your home feed
+sidebar_position: 5
+tags:
+  - Profile Preferences
+---
+
 You can easily edit and select the topics and markets you are interested in across the Fundingbox Communities. This way, your home feed will offer you a curated selection of content.
 
 Click on your avatar picture on the top-left corner of the menu panel.
