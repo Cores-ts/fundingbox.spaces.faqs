@@ -1,7 +1,7 @@
 ---
 id: how-to-navigate
 title: How to link your profile to an organisation
-sidebar_position: 3
+sidebar_position: 4
 tags:
   - Profile Preferences
 ---
