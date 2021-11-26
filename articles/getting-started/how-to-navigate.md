@@ -9,4 +9,6 @@ tags:
 2 screenshots
 ![Example banner](./../../assets/how-navigate-platform-1.png)
 
+![Example banner](./../../assets/how-navigate-platform-2.png)
+
 
