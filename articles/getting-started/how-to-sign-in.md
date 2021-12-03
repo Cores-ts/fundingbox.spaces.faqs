@@ -13,4 +13,4 @@ tags:
 
 ![Example banner](./../.../assets/How-to-sign-in-the-FundingBox-Platform1.gif)
 
-![Example banner](./assets/2. Add-an-organisation.gif)
+![Example banner](./assets/2.Add-an-organisation.gif)
