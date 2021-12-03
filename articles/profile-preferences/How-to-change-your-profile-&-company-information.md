@@ -17,17 +17,7 @@ tags:
 * Your location (city).
 * Your bio (a few lines that describe who you are, what you are passionate about from a business -and even leisure- perspective).
 
-![Example banner] (assets/2.Add-an-organisation.gif)
-![Plushie](assets/2. Add-an-organisation.gif)
-![alt_text](assets/2. Add-an-organisation.gif)
-
-![Example banner] (./../assets/How-to-centre-text-in-a-post.png)
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
-
+![alt_text](gif missing)
 
 
 
