@@ -7,10 +7,19 @@ tags:
 ---
 
 
-How to sign out from other sessions
+### **How to sign out from other sessions**
 
-Click on your profile picture on the top-left part of the page and then click on Manage my account. 
-Go to the Security section.
-Scroll down and click on Sign out from other sessions. This will sign you out from all sessions whether there on mobile or desktop devices. This way you will avoid any ill-intentioned person to access your account through other devices.
+
+
+1. Click on your profile picture on the top-left part of the page and then click on _Manage my account. _
+2. Go to the _Security _section.
+3. Scroll down and click on _Sign out from other sessions_. This will sign you out from all sessions whether there on mobile or desktop devices. This way you will avoid any ill-intentioned person to access your account through other devices.
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.gif "image_tooltip")
 
 
