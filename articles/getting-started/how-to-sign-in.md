@@ -11,6 +11,4 @@ tags:
 * Type your username or email and then your password before clicking on Sign in.
 * You are now signed into the FundingBox Platform!
 
-![Example banner](./../.../assets/How-to-sign-in-the-FundingBox-Platform1.gif)
-
-![Example banner](./assets/2.Add-an-organisation.gif)
+![How to](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/911120236f2830d4bb0a6d621a4d1f08e10f88a1/assets/How-to-sign-in-the-FundingBox%20Platform1.gif)
