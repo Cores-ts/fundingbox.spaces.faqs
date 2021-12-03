@@ -6,9 +6,10 @@ tags:
   - Getting started
 ---
 
-2 screenshots
+### **main features**
 ![Example banner](./../../assets/how-navigate-platform-1.png)
 
+### **secondary features**
 ![Example banner](./../../assets/how-navigate-platform-2.png)
 
 
