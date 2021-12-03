@@ -9,7 +9,6 @@ tags:
 ### **How to link your profile to an organisation**
 
 
-
 1. Click on your profile picture on the top-left part of the page and then click on _Manage my account. _
 2. Go to the _Organisations _section.
 3. Fill in the required information of the organisation you want to be affiliated with.
@@ -17,9 +16,5 @@ tags:
 5. That’s it! The organisation legal info associated with your account will be used to speed up the process when applying to funding opportunities.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
+![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/c7bc463cc1025d0fcae5d6d37606c4bbbd7fb4d9/assets/2.Add-an-organisation.gif)
 
