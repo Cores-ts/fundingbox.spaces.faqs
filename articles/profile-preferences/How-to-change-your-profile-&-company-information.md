@@ -6,9 +6,9 @@ tags:
   - Profile Preferences
 ---
 
-Click on your avatar picture on the top-left corner of the menu panel.
-In the drop-down menu that appears, click on Manage my account.
-In the Profile section, you will be able to edit your profile information which includes:
+1- Click on your avatar picture on the top-left corner of the menu panel.
+2- In the drop-down menu that appears, click on Manage my account.
+3- In the Profile section, you will be able to edit your profile information which includes:
 Your avatar picture.
 Your first and last name.
 Your headline (a few words on what you do, e.g. “CTO @BeatleTech”).
