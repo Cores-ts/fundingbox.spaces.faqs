@@ -12,4 +12,4 @@ tags:
 * You are now signed into the FundingBox Platform!
 
 ![Example banner](./../../assets/How-to-sign-in-the-FundingBox-Platform1.gif)
-![Example banner](assets/2.Add-an-organisation.gif)
+![Example banner](./../../assets/2.Add-an-organisation.gif)
