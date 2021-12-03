@@ -29,7 +29,7 @@ tags:
 * Your company’s interest in Funding Opportunities and/or taking part into EU funded projects.
 
 
-
+![alt_text](gif missing)
 
 
 
