@@ -19,6 +19,7 @@ tags:
 
 ![Example banner] (./assets/2.Add-an-organisation.gif)
 ![Plushie](./assets/2. Add-an-organisation.gif)
+assets/2. Add-an-organisation.gif
 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
