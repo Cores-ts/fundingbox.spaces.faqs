@@ -28,12 +28,7 @@ You can easily edit and select the topics and markets you are interested in acro
 <p>
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.gif" width="" alt="alt_text" title="image_tooltip">
-
-</p>
+![alttext](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/1084ce57e5d7d75a300346fe0e2b7fd4c08c6f62/assets/2.How-to-change-the-markets-and-topics-you-are-interested-in.gif)
 
 
 
