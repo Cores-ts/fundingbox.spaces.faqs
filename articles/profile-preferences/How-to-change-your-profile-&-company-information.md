@@ -17,7 +17,7 @@ tags:
 * Your location (city).
 * Your bio (a few lines that describe who you are, what you are passionate about from a business -and even leisure- perspective).
 
-![alt_text](gif missing)
+![alt_text](assets/2.How-to-change-your-profile-and-company-information.gif)
 
 
 
