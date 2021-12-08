@@ -18,4 +18,4 @@ tags:
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.gif "image_tooltip")
+![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/87bedccdb616595dca45e8b830f9a097d1c92d45/assets/2.How-to-sign-out-from-the-FundingBox-platform.gif)
