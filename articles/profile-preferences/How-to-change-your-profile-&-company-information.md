@@ -17,7 +17,7 @@ tags:
 * Your location (city).
 * Your bio (a few lines that describe who you are, what you are passionate about from a business -and even leisure- perspective).
 
-![alt_text](assets/2.How-to-change-your-profile-and-company-information.gif)
+![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/76ff853d670aff4bb648e4280264a69526d7a4a8/assets/2.How-to-change-your-profile-and-company-information.gif)
 
 
 
