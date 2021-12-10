@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-change-profile-info
 title: How to change your profile & company information
 sidebar_position: 7
 tags:
