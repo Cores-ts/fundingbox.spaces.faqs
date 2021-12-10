@@ -16,5 +16,5 @@ tags:
 5. That’s it! The organisation legal info associated with your account will be used to speed up the process when applying to funding opportunities.
 
 
-![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/c7bc463cc1025d0fcae5d6d37606c4bbbd7fb4d9/assets/2.Add-an-organisation.gif)
+![alt_text](./../../assets/2.Add-an-organisation.gif)
 
