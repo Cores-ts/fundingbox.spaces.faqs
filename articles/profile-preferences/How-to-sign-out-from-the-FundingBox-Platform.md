@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-signout-platform
 title: How to sign out from the FundingBox Platform
 sidebar_position: 1
 tags:
