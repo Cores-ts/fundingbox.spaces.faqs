@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-change-password
 title: How to change your password
 sidebar_position: 8
 tags:
