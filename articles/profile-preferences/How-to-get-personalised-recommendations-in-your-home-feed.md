@@ -19,7 +19,7 @@ You can easily edit and select the topics and markets you are interested in acro
 
 
 
-![alttext](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/1084ce57e5d7d75a300346fe0e2b7fd4c08c6f62/assets/2.How-to-change-the-markets-and-topics-you-are-interested-in.gif)
+![alttext](./../../assets/2.How-to-change-the-markets-and-topics-you-are-interested-in.gif)
 
 
 
