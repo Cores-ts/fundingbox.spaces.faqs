@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-change-desktop-mobile-notifications
 title: How to change your desktop and mobile push notification settings
 sidebar_position: 9
 tags:
