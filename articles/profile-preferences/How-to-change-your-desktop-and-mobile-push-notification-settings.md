@@ -19,5 +19,5 @@ tags:
 4. Tick or untick the box related to each of these sections to activate or deactivate these notifications.
 
     
-![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/442899811f6f291eade5b113a88da74dd7cd789c/assets/2.Change-notifications.gif)
+![alt_text](./../../assets/2.Change-notifications.gif)
 
