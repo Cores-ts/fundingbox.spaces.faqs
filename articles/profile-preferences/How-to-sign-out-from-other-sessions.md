@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-signout
 title: How to sign out from other sessions
 sidebar_position: 2
 tags:
