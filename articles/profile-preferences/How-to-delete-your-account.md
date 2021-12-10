@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-delete-account
 title: How to delete your account
 sidebar_position: 6
 tags:
