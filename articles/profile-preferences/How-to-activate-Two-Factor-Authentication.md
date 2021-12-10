@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-activate-two-factor
 title: How to activate Two Factor Authentication
 sidebar_position: 10
 tags:
