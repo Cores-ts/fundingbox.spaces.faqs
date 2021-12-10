@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-personlise-recommendations
 title: How to get personalised recommendations in your home feed
 sidebar_position: 5
 tags:
