@@ -21,5 +21,5 @@ tags:
 3. Lastly, remember that you can export all your account data in a file so that you have a backup.
 
 
-![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/83c67b37d59f50e57f97d42de964312b46fe670b/assets/2.Data-Privacy.gif)
+![alt_text](./../../assets/2.Data-Privacy.gif)
 
