@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-manage-data
 title: How to manage your data and privacy settings
 sidebar_position: 3
 tags:
