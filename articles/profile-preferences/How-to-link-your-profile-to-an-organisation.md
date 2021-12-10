@@ -1,5 +1,5 @@
 ---
-id: how-to-navigate
+id: how-to-link-profile
 title: How to link your profile to an organisation
 sidebar_position: 4
 tags:
