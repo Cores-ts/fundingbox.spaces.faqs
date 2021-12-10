@@ -14,4 +14,4 @@ tags:
 2. In the window menu that appears, click on _Logout_.
 
 
-![alt_text](https://github.com/Cores-ts/fundingbox.spaces.faqs/blob/87bedccdb616595dca45e8b830f9a097d1c92d45/assets/2.How-to-sign-out-from-the-FundingBox-platform.gif)
+![alt_text](./../../assets/2.How-to-sign-out-from-the-FundingBox-platform.gif)
