@@ -13,4 +13,4 @@ tags:
 3. Type your username or email and then your password before clicking on _Sign in_.
 4. You are now signed into the FundingBox Platform!
 
-![How to](./../../assets/How-to-sign-in-the-FundingBox%20Platform1.gif)
+![How to](./../../assets/How-to-sign-in-the-FundingBox-Platform1.gif)
