@@ -13,4 +13,4 @@ tags:
 3. In the tab *Team members*, invite users to become administrators by entering their username or email address, selecting the administrator role and clicking on the *Send* button.
 4. You can remove administrator rights by simply deleting that role from their row.
 
-![alt_text](./../../assets/4-how-to-20manage-admin-rights.gif)
+![alt_text](./../../assets/4-how-to-manage-admin-rights.gif)
