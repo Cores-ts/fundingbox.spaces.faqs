@@ -5,14 +5,14 @@ module.exports = {
         [
             '@docusaurus/plugin-content-docs',
             {
-                id: 'eu-projects',
+                id: 'spaces',
                 path: path.resolve(__dirname, 'docs'),
-                routeBasePath: 'eu-projects',
+                routeBasePath: 'spaces',
                 sidebarPath: path.resolve(__dirname, 'sidebars.js'),
                 editUrl: ({
                         docPath
                     }) =>
-                    `https://github.com/Cores-ts/fundingbox.eu-projects.docs/edit/main/docs/${docPath}`,
+                    `https://github.com/Cores-ts/fundingbox.spaces.faqs/edit/main/docs/${docPath}`,
                 remarkPlugins: [require('remark-code-import'), require('remark-import-partial')],
             }
         ],
