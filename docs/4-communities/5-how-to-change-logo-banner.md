@@ -3,7 +3,8 @@ id: how-to-change-logo-banner
 title: How to change the logo and the banner of your community?
 sidebar_position: 5
 tags:
-  - Communities - Changes
+  - Communities 
+  - Changes
 ---
 
 ### **How to change the logo and the banner of your community?**
