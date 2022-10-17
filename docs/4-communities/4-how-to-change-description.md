@@ -1,6 +1,6 @@
 ---
-id: how-to-change-name-url-description
-title: How to change the community name, URL, tagline and description?
+id: how-to-change-description
+title: How to change the community tagline or description?
 sidebar_position: 4
 tags:
   - Communities - Changes
@@ -13,7 +13,6 @@ tags:
 1. Go to the page of the community you wished to administer.
 2. On the top-right corner click on the 'gear' icon for Community Settings.
 3. A sub-menu will pop-up, click on *Manage this Community*. In the tab *General*, click on:
-   * *Change name & URL*. 
    * *Change tagline* and/or 
    * *Change about text* (for description), depending on what you want to change.
 
