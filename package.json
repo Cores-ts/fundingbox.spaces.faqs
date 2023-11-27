@@ -17,6 +17,5 @@
     },
     "devDependencies": {
         "fundingbox-wiki-cli": "fundingbox-wiki-cli#v2"
-    },
-    "packageManager": "yarn@3.2.0"
+    }
 }
